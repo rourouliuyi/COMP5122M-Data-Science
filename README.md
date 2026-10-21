@@ -14,13 +14,6 @@ Academic Year: 2026/27
 
 This repository contains my lecture notes, lab exercises, coursework, and personal practice related to the Data Science module.
 
-The purpose of this repository is to:
-
-- Learn Python programming
-- Develop scientific computing skills
-- Practice data analysis techniques
-- Build computational problem-solving abilities
-
 ---
 
 ## Repository Structure
